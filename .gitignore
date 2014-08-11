@@ -20,6 +20,7 @@ config/initializers/secret_token.rb
 db/backups
 config/database.yml
 config/application.yml
+config/secrets.yml
 doc/api
 doc/app
 *.swp
